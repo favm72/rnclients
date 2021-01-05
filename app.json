@@ -4,7 +4,12 @@
   "expo": {
     "name": "rnclients",
     "slug": "rnclients",
+    "icon": "./icon.png",
     "version": "1.0.0",
+    "android": {
+      "package": "com.favm72.rnclients",
+      "versionCode": 1
+    },
     "assetBundlePatterns": [
       "**/*"
     ]
