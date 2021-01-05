@@ -1,0 +1,12 @@
+{
+  "name": "rnclients",
+  "displayName": "rnclients",
+  "expo": {
+    "name": "rnclients",
+    "slug": "rnclients",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
